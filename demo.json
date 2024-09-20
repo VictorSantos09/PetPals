@@ -1,0 +1,16 @@
+{
+  "nome": "",
+  "email": "",
+  "telefone": "",
+  "status": "",
+  "raca": "",
+  "amigos": [
+    {
+      "nome": "",
+      "email": "",
+      "telefone": "",
+      "status": "",
+      "raca": ""
+    }
+  ]
+}
